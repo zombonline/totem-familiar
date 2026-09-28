@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"com.zombonline.totemfamiliar.client.TotemFamiliarClient"
+		],
+		"fabric-datagen": [
+			"com.zombonline.totemfamiliar.datagen.TotemFamiliarDataGenerator"
 		]
 	},
 	"mixins": [
